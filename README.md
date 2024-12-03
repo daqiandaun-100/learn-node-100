@@ -13,6 +13,16 @@ fish_add_path /opt/homebrew/opt/node@22/bin
 fish_add_path /usr/local/opt/node@22/bin
 ```
 
+
+
+## Win11
+
+```bash
+choco install nodejs-lts
+```
+
+
+
 ## Ref
 
 * <https://nodejs.org/>
