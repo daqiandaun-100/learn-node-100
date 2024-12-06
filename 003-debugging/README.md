@@ -20,6 +20,4 @@ chrome://inspect
 * [3-1 环境 & 调试 ——CommonJS1](https://github.com/nanana-100/imooc-146/tree/main/03-01)
 * <https://nodejs.org/en/learn/getting-started/debugging>
 * [Nodejs 之 exports, require, module, \_\_filename, \_\_dirname](https://juejin.cn/post/6844903551534104590)
-* [Modules: CommonJS modules](https://nodejs.org/api/modules.html#modules_the_module_wrapper)
-* [Modules: ECMAScript modules](https://nodejs.org/api/esm.html)
 * [Node 调试工具入门教程](http://www.ruanyifeng.com/blog/2018/03/node-debugger.html)
