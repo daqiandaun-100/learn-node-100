@@ -14,10 +14,10 @@ npm config set registry=https://registry.npmmirror.com
 
 ## npx
 
-```bash
-./node_modules/.bin/webpack --version
+* [`866--day50_包管理器-npx-pnpm-webpack构建工_01_(掌握)npx的使用和scripts创建脚本`](https://github.com/nanana-100/coderwhy/tree/main/s05/day50/0866)
 
-# npx的原理非常简单，它会到当前目录的node_modules/.bin目录下查找对应的命令；
+```bash
+# ./node_modules/.bin/webpack --version
 npx webpack --version
 ```
 
