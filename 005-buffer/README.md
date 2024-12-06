@@ -1,6 +1,6 @@
 ## Buffer
 
-* [Buffer](https://nodejs.org/dist/latest-v14.x/docs/api/buffer.html)
+* [Buffer](https://nodejs.org/docs/latest-v22.x/api/buffer.html)
 * [深入学习 Node.js Buffer | 全栈修仙之路](https://github.com/semlinker/node-deep/blob/master/buffer/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0Node.js%20Buffer.md)
 
 
