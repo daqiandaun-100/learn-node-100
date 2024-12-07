@@ -1,3 +1,11 @@
+## EventEmitter
+
+> [`4-6 基础API—— event1`](https://github.com/nanana-100/imooc-146/tree/main/04-06)
+
+* [`emitter.on`](https://nodejs.org/docs/latest-v22.x/api/events.html#emitteroneventname-listener)
+* [`emitter.emit`](https://nodejs.org/docs/latest-v22.x/api/events.html#emitteremiteventname-args)
+* [`emitter.once`](https://nodejs.org/docs/latest-v22.x/api/events.html#emitteronceeventname-listener)
+* [`emitter.removeListener`](https://nodejs.org/docs/latest-v22.x/api/events.html#emitterremovelistenereventname-listener)
 
 ## Path
 
