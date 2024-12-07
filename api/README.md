@@ -1,3 +1,7 @@
+## File system
+
+* [`fs.readFile`](https://nodejs.org/docs/latest-v22.x/api/fs.html#fsreadfilepath-options-callback)
+* [`fs.writeFile`](https://nodejs.org/docs/latest-v22.x/api/fs.html#fswritefilefile-data-options-callback)
 
 ## Modules: CommonJS modules
 
