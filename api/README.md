@@ -1,3 +1,9 @@
+
+## Path
+
+* [`path.resolve`](https://nodejs.org/docs/latest-v22.x/api/path.html#pathresolvepaths)
+* [`path.join`](https://nodejs.org/docs/latest-v22.x/api/path.html#pathnormalizepath)
+
 ## File system
 
 * [`fs.readFile`](https://nodejs.org/docs/latest-v22.x/api/fs.html#fsreadfilepath-options-callback)
