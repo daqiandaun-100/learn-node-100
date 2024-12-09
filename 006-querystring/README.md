@@ -15,3 +15,4 @@
 
 * [https://github.com/ljharb/qs](https://github.com/ljharb/qs)
 * <https://nodejs.org/docs/latest-v22.x/api/querystring.html>
+* [4-2 处理get请求](https://github.com/nanana-100/imooc-320/tree/main/ch04-02)
