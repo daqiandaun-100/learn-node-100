@@ -1,5 +1,34 @@
-## [146 Node.js入门到企业Web开发中的应用 - 慕课网](https://github.com/nanana-100/imooc-146/tree/main)
 
+## [320 Node.js从零开发Web Server博客项目 - 慕课网](https://github.com/nanana-100/imooc-320)
+
+### HTTP
+
+* [`http.createServer`](https://nodejs.org/docs/latest-v22.x/api/http.html#httpcreateserveroptions-requestlistener)
+
+### `http.Server`
+
+* [`server.listen`](https://nodejs.org/docs/latest-v22.x/api/net.html#serverlisten)
+
+### `http.ServerResponse`
+
+> Extends: `http.OutgoingMessage`、`Stream`
+
+* [`response.writeHead`](https://nodejs.org/docs/latest-v22.x/api/http.html#responsewriteheadstatuscode-statusmessage-headers)
+* [`response.setHeader`](https://nodejs.org/docs/latest-v22.x/api/http.html#responsesetheadername-value)
+* [`response.end`](https://nodejs.org/docs/latest-v22.x/api/http.html#responseenddata-encoding-callback)
+* [`response.write`](https://nodejs.org/docs/latest-v22.x/api/http.html#responsewritechunk-encoding-callback)
+
+### `http.IncomingMessage`
+
+> Extends: `stream.Readable`
+
+> Event
+
+* [`data`](https://nodejs.org/docs/latest-v22.x/api/stream.html#event-data)
+* [`end`](https://nodejs.org/docs/latest-v22.x/api/stream.html#event-end)
+
+
+## [146 Node.js入门到企业Web开发中的应用 - 慕课网](https://github.com/nanana-100/imooc-146/tree/main)
 
 ### Process
 
@@ -14,10 +43,7 @@
 
 * [`readable.pipe`](https://nodejs.org/docs/latest-v22.x/api/stream.html#readablepipedestination-options)
 
-> Event
 
-* [`data`](https://nodejs.org/docs/latest-v22.x/api/stream.html#event-data)
-* [`end`](https://nodejs.org/docs/latest-v22.x/api/stream.html#event-end)
 
 **stream.Writable**
 
