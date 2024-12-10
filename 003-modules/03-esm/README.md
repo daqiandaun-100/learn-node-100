@@ -11,7 +11,15 @@
 const generator = require("@babel/generator").default;
 ```
 
-## [861--day49_ES Module使用-原理-包管理工具npm等_05_(掌握)ESModule的默认导出和导入](https://github.com/nanana-100/coderwhy/tree/main/s05/day49/0860)
+## [862--day49_ES Module使用-原理-包管理工具npm等_06_(理解)ESModule的import函数和meta属](https://github.com/nanana-100/coderwhy/tree/main/s05/day49/0862)
+
+```javascript
+import('./modules/foo.js').then(res=>{
+  console.log(res.name)
+})
+```
+
+## [861--day49_ES Module使用-原理-包管理工具npm等_05_(掌握)ESModule的默认导出和导入](https://github.com/nanana-100/coderwhy/tree/main/s05/day49/0861)
 
 ```javascript
 // 方案一
