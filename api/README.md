@@ -1,3 +1,7 @@
+## [848--day48_邂逅Node-Node安装-前端模块化_07_(掌握)Node程序中的输入和输出]
+
+* [`process.argv`](https://nodejs.org/docs/latest-v22.x/api/process.html#processargv)
+* [`Console`](https://nodejs.org/docs/latest-v22.x/api/console.html)
 
 ## [320 Node.js从零开发Web Server博客项目 - 慕课网](https://github.com/nanana-100/imooc-320)
 
