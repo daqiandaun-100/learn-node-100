@@ -24,14 +24,6 @@ pnpm store prune
 ```bash
 # 设置新目录
 pnpm config set store-dir /Volumes/THAWSPACE/.pnpm-store
-
-# webpack
-pnpm store add @babel/core @babel/cli @babel/preset-env @babel/preset-react babel-loader
-pnpm store add webpack webpack-cli webpack-dev-server
-pnpm store add html-webpack-plugin
-pnpm store add style-loader css-loader
-pnpm store add sass-loader sass
-pnpm store add postcss-loader postcss
 ```
 
 ## Ref
