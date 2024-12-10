@@ -6,6 +6,7 @@
 
 ## coderwhy
 
+* [`850--day48_邂逅Node-Node安装-前端模块化_09_(掌握)Node中常见的全局对象`](https://github.com/nanana-100/coderwhy/tree/main/s05/day48/0850)
 * [`854--day48_邂逅Node-Node安装-前端模块化_13_(掌握)Node中module的exports属性本质`](https://github.com/nanana-100/coderwhy/tree/main/s05/day48/0854)
 * [`855--day48_邂逅Node-Node安装-前端模块化_14_(理解)Node中require查找模块的细节`](https://github.com/nanana-100/coderwhy/tree/main/s05/day48/0855)
 * [`01_模块化-commonjs中require细节`](https://github.com/nanana-100/qq-3619571/tree/main/26-01)

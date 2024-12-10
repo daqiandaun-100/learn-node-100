@@ -1,4 +1,4 @@
-## [848--day48_邂逅Node-Node安装-前端模块化_07_(掌握)Node程序中的输入和输出]
+## [848--day48_邂逅Node-Node安装-前端模块化_07_(掌握)Node程序中的输入和输出](https://github.com/nanana-100/coderwhy/tree/main/s05/day48/0849)
 
 * [`process.argv`](https://nodejs.org/docs/latest-v22.x/api/process.html#processargv)
 * [`Console`](https://nodejs.org/docs/latest-v22.x/api/console.html)
