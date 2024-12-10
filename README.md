@@ -18,7 +18,7 @@ fish_add_path /usr/local/opt/node@22/bin
 ## Win11
 
 ```bash
-choco install nodejs-lts
+choco install nodejs-lts --version="22.12.0"
 ```
 
 
