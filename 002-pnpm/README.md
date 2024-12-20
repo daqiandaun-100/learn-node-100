@@ -8,6 +8,15 @@
 npm install -g pnpm
 ```
 
+
+
+```bash
+pnpm add -g sax
+pnpm setup
+```
+
+
+
 ## [`874--day50_包管理器-npx-pnpm-webpack构建工_09_(掌握)pnpm的常见命令和store存储`](https://github.com/nanana-100/coderwhy/tree/main/s05/day50/0874)
 
 
@@ -17,6 +26,8 @@ pnpm store path
 
 # 从store中删除当前未被引用的包来释放store的空间
 pnpm store prune
+
+pnpm store add @vue/cli
 ```
 
 > <https://pnpm.io/configuring>
