@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Tue Dec  3 12:39:30 CST 2024` | -
+`Thu Jan  9 10:45:54 CST 2025` | `Tue Dec  3 12:39:30 CST 2024`
 
 ```bash
 npm install -g pnpm
@@ -12,6 +12,8 @@ npm install -g pnpm
 
 ```bash
 pnpm add -g sax
+
+# /Volumes/THAWSPACE/.pnpm
 pnpm setup
 ```
 
@@ -34,7 +36,8 @@ pnpm store add @vue/cli
 
 ```bash
 # 设置新目录
-pnpm config set store-dir /Volumes/THAWSPACE/.pnpm-store
+mkdir -p /Volumes/THAWSPACE/.pnpm/store/v3
+pnpm config set store-dir /Volumes/THAWSPACE/.pnpm/store/v3
 ```
 
 ## Ref
