@@ -6,10 +6,15 @@
 
 ```bash
 brew install node@22
+```
 
-# Apple silicon
+> Apple silicon
+```bash
 fish_add_path /opt/homebrew/opt/node@22/bin
-# Intel-based
+```
+
+> `Intel-based`
+```
 fish_add_path /usr/local/opt/node@22/bin
 ```
 
